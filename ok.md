@@ -10,4 +10,13 @@
 
 git commit : git commit -m " modificação"      => o -m é referente a mensagem de modificação, o porque estou alterando. Commit é como congelar a versão de alteração e salvar num repositório local
 
+git log: git log --oneline  isto é para ver as modificações
+
+git remote --v:   git remote --v ser para saber qual repositório remoto está configurado.
+
+git branch: mostra a branch que estamos, que o ramo do codigo , podemos ter várias branch
+
+
+git push origin main: git push origin main(branch que estamos)
+
 
